@@ -106,7 +106,6 @@ U+4E98	kIRGTotalStrokes	6
 U+4E99	kIRGTotalStrokes	6
 U+4E9A	kIRGTotalStrokes	6
 U+4E9B	kIRGTotalStrokes	8
-U+4E9B	kIRGTotalStrokes	8
 U+4E9C	kIRGTotalStrokes	7
 U+4E9E	kIRGTotalStrokes	8
 U+4E9F	kIRGTotalStrokes	9
@@ -203,7 +202,6 @@ U+5009	kIRGTotalStrokes	10
 U+500D	kIRGTotalStrokes	10
 U+5010	kIRGTotalStrokes	11
 U+5012	kIRGTotalStrokes	10
-U+5012	kIRGTotalStrokes	10
 U+501A	kIRGTotalStrokes	10
 U+5020	kIRGTotalStrokes	10
 U+5026	kIRGTotalStrokes	10
@@ -285,7 +283,7 @@ U+519C	kIRGTotalStrokes	6
 U+519D	kIRGTotalStrokes	7
 U+51A0	kIRGTotalStrokes	9
 U+51A1	kIRGTotalStrokes	10
-U+51A2	kIRGTotalStrokes	9
+U+51A2	kIRGTotalStrokes	10
 U+51A5	kIRGTotalStrokes	10
 U+51A8	kIRGTotalStrokes	11
 U+51AB	kIRGTotalStrokes	2
@@ -461,7 +459,6 @@ U+5396	kIRGTotalStrokes	9
 U+5398	kIRGTotalStrokes	9
 U+539A	kIRGTotalStrokes	9
 U+539D	kIRGTotalStrokes	10
-U+539D	kIRGTotalStrokes	10
 U+539F	kIRGTotalStrokes	10
 U+53A4	kIRGTotalStrokes	12
 U+53A5	kIRGTotalStrokes	12
@@ -528,7 +525,7 @@ U+540E	kIRGTotalStrokes	6
 U+540F	kIRGTotalStrokes	6
 U+5410	kIRGTotalStrokes	6
 U+5411	kIRGTotalStrokes	6
-U+5415	kIRGTotalStrokes	7
+U+5415	kIRGTotalStrokes	6
 U+541B	kIRGTotalStrokes	7
 U+541D	kIRGTotalStrokes	7
 U+541E	kIRGTotalStrokes	7
@@ -699,7 +696,6 @@ U+5905	kIRGTotalStrokes	6
 U+5906	kIRGTotalStrokes	7
 U+5907	kIRGTotalStrokes	8
 U+590A	kIRGTotalStrokes	3
-U+590A	kIRGTotalStrokes	3
 U+590B	kIRGTotalStrokes	7
 U+590C	kIRGTotalStrokes	8
 U+590D	kIRGTotalStrokes	9
@@ -728,7 +724,6 @@ U+5931	kIRGTotalStrokes	5
 U+5932	kIRGTotalStrokes	5
 U+5933	kIRGTotalStrokes	5
 U+5934	kIRGTotalStrokes	5
-U+5937	kIRGTotalStrokes	6
 U+5937	kIRGTotalStrokes	6
 U+5938	kIRGTotalStrokes	6
 U+5939	kIRGTotalStrokes	6
@@ -834,7 +829,7 @@ U+5BA4	kIRGTotalStrokes	9
 U+5BA5	kIRGTotalStrokes	9
 U+5BA9	kIRGTotalStrokes	9
 U+5BAA	kIRGTotalStrokes	9
-U+5BAB	kIRGTotalStrokes	10
+U+5BAB	kIRGTotalStrokes	9
 U+5BAE	kIRGTotalStrokes	10
 U+5BB0	kIRGTotalStrokes	10
 U+5BB3	kIRGTotalStrokes	10
@@ -877,7 +872,7 @@ U+5C02	kIRGTotalStrokes	9
 U+5C03	kIRGTotalStrokes	10
 U+5C04	kIRGTotalStrokes	10
 U+5C05	kIRGTotalStrokes	10
-U+5C06	kIRGTotalStrokes	9
+U+5C06	kIRGTotalStrokes	10
 U+5C07	kIRGTotalStrokes	11
 U+5C08	kIRGTotalStrokes	11
 U+5C09	kIRGTotalStrokes	11
@@ -1398,12 +1393,12 @@ U+670B	kIRGTotalStrokes	8
 U+670D	kIRGTotalStrokes	8
 U+6714	kIRGTotalStrokes	10
 U+6715	kIRGTotalStrokes	10
-U+6717	kIRGTotalStrokes	11
+U+6717	kIRGTotalStrokes	10
 U+671B	kIRGTotalStrokes	11
 U+671D	kIRGTotalStrokes	12
 U+671F	kIRGTotalStrokes	12
 U+6728	kIRGTotalStrokes	4
-U+6729	kIRGTotalStrokes	7
+U+6729	kIRGTotalStrokes	4
 U+672A	kIRGTotalStrokes	5
 U+672B	kIRGTotalStrokes	5
 U+672C	kIRGTotalStrokes	5
@@ -1422,7 +1417,7 @@ U+6756	kIRGTotalStrokes	7
 U+6757	kIRGTotalStrokes	7
 U+6758	kIRGTotalStrokes	7
 U+675F	kIRGTotalStrokes	7
-U+6761	kIRGTotalStrokes	10
+U+6761	kIRGTotalStrokes	7
 U+6765	kIRGTotalStrokes	7
 U+6768	kIRGTotalStrokes	7
 U+676D	kIRGTotalStrokes	8
@@ -1430,7 +1425,6 @@ U+676F	kIRGTotalStrokes	8
 U+6770	kIRGTotalStrokes	8
 U+6771	kIRGTotalStrokes	8
 U+6772	kIRGTotalStrokes	8
-U+6773	kIRGTotalStrokes	8
 U+6773	kIRGTotalStrokes	8
 U+6775	kIRGTotalStrokes	8
 U+6778	kIRGTotalStrokes	8
@@ -1511,7 +1505,6 @@ U+6B2E	kIRGTotalStrokes	10
 U+6B32	kIRGTotalStrokes	11
 U+6B35	kIRGTotalStrokes	11
 U+6B39	kIRGTotalStrokes	12
-U+6B39	kIRGTotalStrokes	12
 U+6B3D	kIRGTotalStrokes	12
 U+6B43	kIRGTotalStrokes	13
 U+6B49	kIRGTotalStrokes	14
@@ -1566,7 +1559,6 @@ U+6C1B	kIRGTotalStrokes	8
 U+6C23	kIRGTotalStrokes	10
 U+6C2C	kIRGTotalStrokes	12
 U+6C34	kIRGTotalStrokes	4
-U+6C34	kIRGTotalStrokes	4
 U+6C35	kIRGTotalStrokes	3
 U+6C36	kIRGTotalStrokes	5
 U+6C38	kIRGTotalStrokes	5
@@ -1592,7 +1584,6 @@ U+6CB8	kIRGTotalStrokes	8
 U+6CB9	kIRGTotalStrokes	8
 U+6CC9	kIRGTotalStrokes	9
 U+6CCA	kIRGTotalStrokes	8
-U+6CD4	kIRGTotalStrokes	8
 U+6CD4	kIRGTotalStrokes	8
 U+6CD5	kIRGTotalStrokes	8
 U+6CD8	kIRGTotalStrokes	8
@@ -1758,7 +1749,6 @@ U+732B	kIRGTotalStrokes	12
 U+732E	kIRGTotalStrokes	13
 U+7352	kIRGTotalStrokes	15
 U+7372	kIRGTotalStrokes	17
-U+7372	kIRGTotalStrokes	17
 U+737B	kIRGTotalStrokes	20
 U+7384	kIRGTotalStrokes	5
 U+7386	kIRGTotalStrokes	10
@@ -1811,7 +1801,6 @@ U+7544	kIRGTotalStrokes	8
 U+754C	kIRGTotalStrokes	9
 U+754F	kIRGTotalStrokes	9
 U+7550	kIRGTotalStrokes	9
-U+7555	kIRGTotalStrokes	10
 U+7555	kIRGTotalStrokes	10
 U+7559	kIRGTotalStrokes	10
 U+755F	kIRGTotalStrokes	10
@@ -2279,7 +2268,6 @@ U+83BA	kIRGTotalStrokes	11
 U+83BD	kIRGTotalStrokes	11
 U+83BE	kIRGTotalStrokes	12
 U+83C0	kIRGTotalStrokes	12
-U+83C6	kIRGTotalStrokes	12
 U+83C6	kIRGTotalStrokes	12
 U+83CA	kIRGTotalStrokes	12
 U+83DC	kIRGTotalStrokes	12
@@ -2760,7 +2748,6 @@ U+971C	kIRGTotalStrokes	17
 U+971D	kIRGTotalStrokes	17
 U+9732	kIRGTotalStrokes	21
 U+9748	kIRGTotalStrokes	24
-U+9748	kIRGTotalStrokes	24
 U+9751	kIRGTotalStrokes	8
 U+9752	kIRGTotalStrokes	8
 U+975C	kIRGTotalStrokes	16
@@ -2973,7 +2960,6 @@ U+3B0E	kIRGTotalStrokes	14
 U+3B30	kIRGTotalStrokes	6
 U+3B31	kIRGTotalStrokes	16
 U+3C45	kIRGTotalStrokes	16
-U+3C45	kIRGTotalStrokes	16
 U+3C51	kIRGTotalStrokes	7
 U+3C7C	kIRGTotalStrokes	7
 U+3C7F	kIRGTotalStrokes	10
@@ -3040,6 +3026,7 @@ U+20088	kIRGTotalStrokes	2
 U+20089	kIRGTotalStrokes	2
 U+2008A	kIRGTotalStrokes	2
 U+2008B	kIRGTotalStrokes	3
+U+20094	kIRGTotalStrokes	5
 U+20095	kIRGTotalStrokes	5
 U+2009B	kIRGTotalStrokes	5
 U+2009D	kIRGTotalStrokes	5
@@ -3155,7 +3142,6 @@ U+215E2	kIRGTotalStrokes	6
 U+215F1	kIRGTotalStrokes	7
 U+21624	kIRGTotalStrokes	10
 U+21696	kIRGTotalStrokes	17
-U+216AF	kIRGTotalStrokes	6
 U+216AF	kIRGTotalStrokes	6
 U+216BA	kIRGTotalStrokes	6
 U+21795	kIRGTotalStrokes	11
@@ -3392,7 +3378,6 @@ U+28668	kIRGTotalStrokes	7
 U+286AB	kIRGTotalStrokes	8
 U+2893E	kIRGTotalStrokes	10
 U+2896B	kIRGTotalStrokes	13
-U+28B1B	kIRGTotalStrokes	20
 U+28B1B	kIRGTotalStrokes	20
 U+28CDD	kIRGTotalStrokes	12
 U+28E00	kIRGTotalStrokes	6
